@@ -67,7 +67,7 @@ class _SplashScreenState extends State<SplashScreen> {
                 children: [
                   Image.asset('assets/logo.png'),
                   Text("WELCOME TO AICTE",style:GoogleFonts.
-                  jacquesFrancois(color:Colors.black,fontSize: SizeConfig.deviceHeight*0.03,fontWeight: FontWeight.bold),),
+                  inter(color:Colors.black,fontSize: SizeConfig.deviceHeight*0.01,fontWeight: FontWeight.bold),),
                 ],
               ),
 
